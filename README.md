@@ -1,1 +1,2 @@
-This program uses oandas to analyze MTA subway data to determine optimal placement for subway advertising.
+
+This program uses functions to determine the average waiting time for customers.
